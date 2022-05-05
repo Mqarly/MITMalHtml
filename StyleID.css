@@ -1,0 +1,29 @@
+#Germany{
+    text-align: center;
+    border: 5px solid black;
+    padding: 40px;
+    margin: 30px;
+    background-color: #ffe500;
+
+}
+#Kenya{
+    text-align: center;
+    border: 5px solid black;
+    padding: 40px;
+    margin: 30px;
+    background-color: #ce1313;
+}
+#Ukraine{
+    text-align: center;
+    border: 5px solid black;
+    padding: 40px;
+    margin: 30px;
+    background-color: #ff8400;
+}
+#Russia{
+    text-align: center;
+    border: 5px solid black;
+    padding: 40px;
+    margin: 30px;
+    background-color: blue;
+}
